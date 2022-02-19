@@ -25,7 +25,7 @@ namespace Conditionals
             */
 
             // TODO: can be replaced by a ternary operator ?:
-            
+            Console.WriteLine(theVal<50?"theVal is small":"theVal is large");
 
         }
     }
