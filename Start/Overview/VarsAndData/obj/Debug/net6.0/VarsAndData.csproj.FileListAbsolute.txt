@@ -1,0 +1,15 @@
+C:\Users\gofkd\OneDrive\바탕 화면\Exercise Files\Start\Overview\VarsAndData\bin\Debug\net6.0\VarsAndData.exe
+C:\Users\gofkd\OneDrive\바탕 화면\Exercise Files\Start\Overview\VarsAndData\bin\Debug\net6.0\VarsAndData.deps.json
+C:\Users\gofkd\OneDrive\바탕 화면\Exercise Files\Start\Overview\VarsAndData\bin\Debug\net6.0\VarsAndData.runtimeconfig.json
+C:\Users\gofkd\OneDrive\바탕 화면\Exercise Files\Start\Overview\VarsAndData\bin\Debug\net6.0\VarsAndData.dll
+C:\Users\gofkd\OneDrive\바탕 화면\Exercise Files\Start\Overview\VarsAndData\bin\Debug\net6.0\ref\VarsAndData.dll
+C:\Users\gofkd\OneDrive\바탕 화면\Exercise Files\Start\Overview\VarsAndData\bin\Debug\net6.0\VarsAndData.pdb
+C:\Users\gofkd\OneDrive\바탕 화면\Exercise Files\Start\Overview\VarsAndData\obj\Debug\net6.0\VarsAndData.csproj.AssemblyReference.cache
+C:\Users\gofkd\OneDrive\바탕 화면\Exercise Files\Start\Overview\VarsAndData\obj\Debug\net6.0\VarsAndData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gofkd\OneDrive\바탕 화면\Exercise Files\Start\Overview\VarsAndData\obj\Debug\net6.0\VarsAndData.AssemblyInfoInputs.cache
+C:\Users\gofkd\OneDrive\바탕 화면\Exercise Files\Start\Overview\VarsAndData\obj\Debug\net6.0\VarsAndData.AssemblyInfo.cs
+C:\Users\gofkd\OneDrive\바탕 화면\Exercise Files\Start\Overview\VarsAndData\obj\Debug\net6.0\VarsAndData.csproj.CoreCompileInputs.cache
+C:\Users\gofkd\OneDrive\바탕 화면\Exercise Files\Start\Overview\VarsAndData\obj\Debug\net6.0\VarsAndData.dll
+C:\Users\gofkd\OneDrive\바탕 화면\Exercise Files\Start\Overview\VarsAndData\obj\Debug\net6.0\ref\VarsAndData.dll
+C:\Users\gofkd\OneDrive\바탕 화면\Exercise Files\Start\Overview\VarsAndData\obj\Debug\net6.0\VarsAndData.pdb
+C:\Users\gofkd\OneDrive\바탕 화면\Exercise Files\Start\Overview\VarsAndData\obj\Debug\net6.0\VarsAndData.genruntimeconfig.cache

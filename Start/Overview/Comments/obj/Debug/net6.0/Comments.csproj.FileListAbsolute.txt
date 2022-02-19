@@ -1,0 +1,16 @@
+C:\Users\gofkd\OneDrive\바탕 화면\Exercise Files\Start\Overview\Comments\bin\Debug\net6.0\Comments.exe
+C:\Users\gofkd\OneDrive\바탕 화면\Exercise Files\Start\Overview\Comments\bin\Debug\net6.0\Comments.deps.json
+C:\Users\gofkd\OneDrive\바탕 화면\Exercise Files\Start\Overview\Comments\bin\Debug\net6.0\Comments.runtimeconfig.json
+C:\Users\gofkd\OneDrive\바탕 화면\Exercise Files\Start\Overview\Comments\bin\Debug\net6.0\Comments.dll
+C:\Users\gofkd\OneDrive\바탕 화면\Exercise Files\Start\Overview\Comments\bin\Debug\net6.0\ref\Comments.dll
+C:\Users\gofkd\OneDrive\바탕 화면\Exercise Files\Start\Overview\Comments\bin\Debug\net6.0\Comments.pdb
+C:\Users\gofkd\OneDrive\바탕 화면\Exercise Files\Start\Overview\Comments\bin\Debug\net6.0\Comments.xml
+C:\Users\gofkd\OneDrive\바탕 화면\Exercise Files\Start\Overview\Comments\obj\Debug\net6.0\Comments.csproj.AssemblyReference.cache
+C:\Users\gofkd\OneDrive\바탕 화면\Exercise Files\Start\Overview\Comments\obj\Debug\net6.0\Comments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gofkd\OneDrive\바탕 화면\Exercise Files\Start\Overview\Comments\obj\Debug\net6.0\Comments.AssemblyInfoInputs.cache
+C:\Users\gofkd\OneDrive\바탕 화면\Exercise Files\Start\Overview\Comments\obj\Debug\net6.0\Comments.AssemblyInfo.cs
+C:\Users\gofkd\OneDrive\바탕 화면\Exercise Files\Start\Overview\Comments\obj\Debug\net6.0\Comments.csproj.CoreCompileInputs.cache
+C:\Users\gofkd\OneDrive\바탕 화면\Exercise Files\Start\Overview\Comments\obj\Debug\net6.0\Comments.dll
+C:\Users\gofkd\OneDrive\바탕 화면\Exercise Files\Start\Overview\Comments\obj\Debug\net6.0\ref\Comments.dll
+C:\Users\gofkd\OneDrive\바탕 화면\Exercise Files\Start\Overview\Comments\obj\Debug\net6.0\Comments.pdb
+C:\Users\gofkd\OneDrive\바탕 화면\Exercise Files\Start\Overview\Comments\obj\Debug\net6.0\Comments.genruntimeconfig.cache
